@@ -23,7 +23,6 @@ class Maze
     private $y                = 0;
     private $cellCount        = 0;
     private $wallCount        = 0;
-    //RandomGen r;
 
 
     /**
